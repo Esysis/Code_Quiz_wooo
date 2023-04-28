@@ -4,7 +4,7 @@ This is the code quiz click the start button on the middle of the screen to begi
 
 ## Instructions 
 
-Click the sart button to begin. Answer the 5 questions as fast and correctly as possible.
+Click the start button to begin. Answer the 5 questions as fast and correctly as possible.
 
 ## Screenshot of site
 
