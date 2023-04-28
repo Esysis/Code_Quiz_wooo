@@ -8,7 +8,7 @@ Click the start button to begin. Answer the 5 questions as fast and correctly as
 
 ## Screenshot of site
 
-![This is a screenshot of my code quiz](/CodequizsiteSC.png)
+![This is a screenshot of my code quiz](./CodequizsiteSC.png)
 
 ![This is a screenshot of my code quiz high scores page](./HighscoreSC.png)
 
